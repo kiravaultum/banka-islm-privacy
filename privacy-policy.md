@@ -41,4 +41,4 @@ Eklenti bankacılık sitelerinde yalnızca **okuma işlemi** yapar, hiçbir değ
 
 ## 6. İletişim
 Herhangi bir soru için:  
-`arcjonesdev@gmail.com`
+`kiravaultum@gmail.com`
